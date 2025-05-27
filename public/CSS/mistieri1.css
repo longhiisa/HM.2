@@ -184,3 +184,11 @@ body {
     background-color: white;
     color: #FF6B00;
 }
+
+.section-title {
+    margin: 30px 0 10px;
+    font-size: 2rem;
+    color:#E05A00;
+    font-weight: bold; /* Aqui está a mudança */
+    text-align: center;
+}
